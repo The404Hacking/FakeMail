@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html">
-<title>Fake Email Script</title>
+<title>Fake Email Script | The404Hacking</title>
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <meta charset="UTF-8">
 </head>
@@ -97,7 +97,7 @@ exit();
 
 <form action="" method="post" class="basic-grey">
     <h1>Fake Email Script (Version 1)
-        <span>Based on Fake Email Prank Script By Raman Yadav</span>
+        <span>Based on Fake Email Prank Script By <a href="https://T.me/Sir4m1R" title="Sir.4m1R Contact !" target="_blank">Sir.4m1R</a> | <a href="https://T.me/The404Hacking" title="The404Hacking Telegram Channel !" target="_blank">The404Hacking</a></span>
     	<span>Please do not misuse this script.</span>
     </h1>
     
